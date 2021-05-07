@@ -1,0 +1,36 @@
+[26/Apr/2021:15:29:54] (I): WordPress Instance Info:
+[26/Apr/2021:15:29:54] (I): Home URL : https://bdiverse.me
+[26/Apr/2021:15:29:54] (I): Site URL : https://bdiverse.me
+[26/Apr/2021:15:29:54] (I): WordPress Version : 5.7.1
+[26/Apr/2021:15:29:54] (I): Onboarding Version : 1.1.7
+[26/Apr/2021:15:29:54] (I): Multisite : No
+[26/Apr/2021:15:29:54] (I): Server Info : Apache
+[26/Apr/2021:15:29:54] (I): PHP Version : 7.4.16
+[26/Apr/2021:15:29:54] (I): HTTPS : Yes
+[26/Apr/2021:15:29:54] (I): PHP Max Execution Time : 120
+[26/Apr/2021:15:29:54] (I): PHP Max Input Vars : 1000
+[26/Apr/2021:15:29:54] (I): Max Upload Size : 83886080
+[26/Apr/2021:15:29:54] (I): Plugins:
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Query Monitor : v3.6.7 (John Blackbourn)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Starter Templates : v2.6.2 (Brainstorm Force)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Calculated Fields Form : v1.0.460 (CodePeople)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Draw Attention : v1.9.17 (N Squared)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Elementor : v3.1.4 (Elementor.com)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Error Log Monitor : v1.7 (Janis Elsts)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Essential Addons for Elementor : v4.6.2 (WPDeveloper)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Woody code snippets (PHP snippets | Insert PHP) : v2.4.1 (Creative Motion, Will Bontrager Software, LLC )
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Interactive Geo Maps : v1.4.5 (Carlos Moreira)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Password Protected : v2.4 (Ben Huson)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Quiz And Survey Master : v7.1.15 (ExpressTech)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Show Hooks : v0.1.4 (rafiq91)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Sticky Menu (or Anything!) on Scroll : v2.31 (WebFactory Ltd)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Templately : v1.2.1 (Templately)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Templates Patterns Collection : v1.1.7 (ThemeIsle)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Orbit Fox Companion : v2.10.4 (Themeisle)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Timeline Awesome : v1.0.3 (Themes Awesome)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Timeline Event History : v1.7 (wpdiscover)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] Timeline Widget Addon For Elementor : v1.2.2 (Cool Plugins)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] UpdraftPlus - Backup/Restore : v1.16.53 (UpdraftPlus.Com, DavidAnderson)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] WP Data Access : v4.2.1 (Passionate Programmers)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] WPForms Lite : v1.6.6 (WPForms)
+[26/Apr/2021:15:29:54] (I): [PLUGIN] WPFront Scroll Top : v2.0.4.04013 (Syam Mohan)
