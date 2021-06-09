@@ -3,6 +3,10 @@ Visit us via password: spen0022(available for one year)
 
 https://bdiverse.games/
 
+## Win Uni prize:
+![award](https://github.com/Stanford-Peng/bd-iteration3/blob/main/Pics/award.png)
+![cert](https://github.com/Stanford-Peng/bd-iteration3/blob/main/Pics/certificate.png)
+
 ## Project Description:
 
 The project was focused on IT for social good, that is using information technology in having a positive impact and making a difference in society. The theme of our project was ‘Urban Wilderness’ and the topic was ‘Urban Forests’. While conducting research, we discovered that one of the major cities in Australia, Melbourne was losing its biodiversity at the fastest rate compared to any other place in Australia. This was of concern as the biodiversity of Melbourne was highlighted to be a huge part of the city’s culture and heritage. While conducting further research in to ‘why’ this was happening, we identified that one of the major reasons for this was a lack of awareness on the part of the public. Our target audience was identified as vicenarians living in Melbourne as they made up over 40% of the total population and was identified as the least aware of environmental issues by the Australian Bureau of Statistics. 
