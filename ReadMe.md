@@ -72,9 +72,7 @@ Provides volunteer organisations that are committed to helping Melbourne’s bio
 ![organization](https://github.com/Stanford-Peng/bd-iteration3/blob/main/Pics/organization-page.png)
 
  
-Quiz Section
-
-Quiz 
+### Quiz Section
 
 Provides an opportunity for the audience of the website to test the knowledge they’ve gained on the website. The quiz is interactive and provides immediate feedback to the audience when they click on an answer, along with the justification. At the end of the quiz, a summary is also provided which includes how much time the audience took to complete the quiz, the number of questions that were answered correct and a list indicating the right answers to all the questions. The audience also has the option to retake the quiz. Figure 7 shows the feature on the Quiz page of the website.
 
