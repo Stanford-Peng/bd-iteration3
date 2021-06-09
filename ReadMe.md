@@ -51,7 +51,7 @@ Provides information regarding endangered plants in Melbourne City. The audience
 ### Learn to Plant
 
 Provides step by step knowledge on how to plant trees, flowers and ornamental grasses. The audience can select the desired category and then navigate through the steps to start their planting journey. The page also consists of an infographs, informing our audience on the benefits of gardening. Figure 4 shows the feature on the Learn to Plant page of the website.
-![planting]()
+![planting](https://github.com/Stanford-Peng/bd-iteration3/blob/main/Pics/planting.png)
 
  
 
@@ -60,9 +60,8 @@ Provides step by step knowledge on how to plant trees, flowers and ornamental gr
 ### Exceptional Trees
 
 Provides answers to frequently asked questions about the Exceptional Tree Registry, an initiative run by the City of Melbourne. It provides residents with an opportunity to nominate exceptional trees around the city that they would like the Australian Government to protect. The audience are able to click the tiles which represent a particular question and will redirected to the relevant information section. Figure 5 shows the feature on the Learn to Plant page of the website.
-
  
-![plants](Exceptional tree)
+![exceptional](https://github.com/Stanford-Peng/bd-iteration3/blob/main/Pics/exceptionalTree.png)
 
 
 
