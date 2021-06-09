@@ -24,53 +24,53 @@ All	All	0.0.0.0/0	Open for incoming HTTP connection
 
 For inbound requests, port 80 and 443 are available for HTTP/HTTPS connection without limiting the IP source. 22 is also made available so that the maintainer can use SSH protocol to securely connect to the terminal of the EC2 instance OS using private key.
 Outbound requests are not limited since it will make it easy for maintainers to update the system tools, applications and operate inside the server.
-
+![architecture](https://github.com/Stanford-Peng/bd-iteration3/blob/main/Pics/architecture.png)
 
 ## Product Description:
 
-The focus of the website is categorised in to three sub sections which include the ‘Knowledge’ section which encompasses all the pages that are dedicated to information sharing, the ‘Volunteer’ section includes pages dedicated to helping find volunteer opportunities and finally the ‘Quiz’ section which consists of the quiz to test audience knowledge. This is conveyed to the audience of the website by the way the navigation bar is organised. (As shown in Figure 1.)
+The focus of the website is categorised in to three sub sections which include the ‘Knowledge’ section which encompasses all the pages that are dedicated to information sharing, the ‘Volunteer’ section includes pages dedicated to helping find volunteer opportunities and finally the ‘Quiz’ section which consists of the quiz to test audience knowledge. This is conveyed to the audience of the website by the way the navigation bar is organised. (As shown below)
 
- 
-Figure 1
+![menu](https://github.com/Stanford-Peng/bd-iteration3/blob/main/Pics/features.png)
 
 The website https://bdiverse.games/ has the following features:
-Urban Forest Timeline
+
+### Urban Forest Timeline
 
 Provides a timeline of Urban Forests in Melbourne city spanning from the 19th Century to present day. It also gives the audience an idea of the future of urban forests, if the extinction rate carries on at what it is today. The timeline is interactive as the relevant section of information appears as the user scrolls down. Figure 2 shows the feature on the Urban Forests Timeline page of the website. 
-
+![timeline](https://github.com/Stanford-Peng/bd-iteration3/blob/main/Pics/timeline.png)
  
-Figure 2
 
-Endangered Plants
+
+### Endangered Plants
 
 Provides information regarding endangered plants in Melbourne City. The audience is able to either search plants by their name or filter them by the categories provided which include ‘Extinct’, ‘Critically Endangered’, ‘Endangered’ and ‘Vulnerable’. Figure 3 shows the feature on the Endangered Plants page of the website.
 
+![plants](https://github.com/Stanford-Peng/bd-iteration3/blob/main/Pics/plant.png)
  
-Figure 3
-Knowledge Section
-Learn to Plant
+
+### Learn to Plant
 
 Provides step by step knowledge on how to plant trees, flowers and ornamental grasses. The audience can select the desired category and then navigate through the steps to start their planting journey. The page also consists of an infographs, informing our audience on the benefits of gardening. Figure 4 shows the feature on the Learn to Plant page of the website.
-
+![planting]()
 
  
 
-Figure 4
 
-Exceptional Trees
+
+### Exceptional Trees
 
 Provides answers to frequently asked questions about the Exceptional Tree Registry, an initiative run by the City of Melbourne. It provides residents with an opportunity to nominate exceptional trees around the city that they would like the Australian Government to protect. The audience are able to click the tiles which represent a particular question and will redirected to the relevant information section. Figure 5 shows the feature on the Learn to Plant page of the website.
 
  
-Figure 5
+![plants](Exceptional tree)
 
 
 
-Volunteer Section
 
-Volunteer Organisations
+### Volunteer Organisations
 
 Provides volunteer organisations that are committed to helping Melbourne’s biodiversity. The audience can filter these organisations by location or interest. They also are provided with the organisations’ contact details and link to their websites if they want to explore more. They can also locate the organisations on the map and have a look at the street view of the organisation. Figure 6 shows the feature on the Volunteer Organisations page of the website.
+![organization](https://github.com/Stanford-Peng/bd-iteration3/blob/main/Pics/organization-page.png)
 
  
 Quiz Section
@@ -79,9 +79,8 @@ Quiz
 
 Provides an opportunity for the audience of the website to test the knowledge they’ve gained on the website. The quiz is interactive and provides immediate feedback to the audience when they click on an answer, along with the justification. At the end of the quiz, a summary is also provided which includes how much time the audience took to complete the quiz, the number of questions that were answered correct and a list indicating the right answers to all the questions. The audience also has the option to retake the quiz. Figure 7 shows the feature on the Quiz page of the website.
 
- 
-Figure 7
-![image](https://user-images.githubusercontent.com/48232605/121378628-b6867d80-c986-11eb-9a86-8baf95ffaed6.png)
+
+![quiz](https://github.com/Stanford-Peng/bd-iteration3/blob/main/Pics/quiz-page.png)
 
 
 
